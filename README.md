@@ -12,7 +12,4 @@ The task involves predicting the genre of a movie based on its plot summary or o
 </li>
 </p>
 Thank you 😎 
-#codsoft 
-#dataanalyst  
-#machinelearning  
-#internshipjourney 
+
